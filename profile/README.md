@@ -21,3 +21,8 @@ We are a talented team of mechanics, electricians, programmers, designers, and m
 The passion of our team is the unstoppable kind. We're so glad to have you along with us as we document our journey!
 
 Learn more about us on our [Website](https://sites.google.com/view/axiom4787/welcome?authuser=1)!
+
+## Contact us via...
+[Youtube](www.youtube.com/channel/UCwGfB6-OaovUTWIzHQTcswg)
+[Instagram](www.instagram.com/axiom4787/)
+[Email](roboticsleaders@gmail.com)
