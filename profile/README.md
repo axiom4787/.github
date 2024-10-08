@@ -10,8 +10,12 @@
 -->
 
 
-## Hi there 👋
+### Hi there 👋
 # [We are Axiom 4787](https://sites.google.com/view/axiom4787/welcome?authuser=1)
+### We have **AMBITION**.
+### We **ACHIEVE**. 
+### We will **ASCEND**
+<br>
 
 ## We are [FRC](https://www.firstinspires.org/) team 4787 based out of Chicago, Illinois.
 ​From building hoop-shooting robots all the way to constructing our school's very own t-shirt cannon, Axiom can do it all!
