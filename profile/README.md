@@ -10,7 +10,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 <p align=center>
-<img src="https://lh6.googleusercontent.com/daOz0y2fTdzIsdKoOXYCGk2oreTdXA0HbwfKYfYBITyaauUTDacS3axkNx5-2VeJLthcu-shBJp3yoToKX0E4QE=w16383" alt="Axiom Logo" style="float: center;" height="200"/></p>
+<img src="Untitled.png" alt="Axiom Logo" style="float: center;" height="200"/></p>
 
 # [We are Axiom 4787](https://sites.google.com/view/axiom4787/welcome?authuser)
 
